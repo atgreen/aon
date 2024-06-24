@@ -1,6 +1,6 @@
 # aon - pixoo example
 
-This code is from a larger personal project that includes a pixoo
+This code is from a larger personal project that includes a [pixoo](https://divoom.com/en-ca/products/pixoo-64)
 dashboard for displaying a countdown clock to my next meeting in google
 calendar (along with coloured 5 and 2 minute warnings), as well as
 some financial data I graph from [ledger-cli](https://ledger-cli.org/) content.
